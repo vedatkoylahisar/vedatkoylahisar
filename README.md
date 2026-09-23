@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Vedat 👋
+**.NET Backend Developer** · Computer Engineering, Kocaeli University '26
 
-<!--
-**vedatkoylahisar/vedatkoylahisar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend systems that connect industrial data to software:
+collecting machine data, integrating it with business systems like ERP,
+and exposing it to AI agents.
 
-Here are some ideas to get you started:
+### 🔧 Currently building
+**shopfloor-ai-bridge** — OPC UA / Modbus → .NET Worker → RabbitMQ → TimescaleDB → MCP Server  
+An end-to-end demo where an AI agent can query live machine data, downtime and OEE.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Stack
+**Backend:** C#, ASP.NET Core Web API, EF Core, RabbitMQ, Redis, Ocelot, Microservices  
+**DevOps:** Docker, docker-compose, CI/CD  
+**AI:** MCP, LLM tool-calling, Python, CNNs  
+**Frontend:** React
+
+### 📌 Highlights
+- **MicroCommerce** — .NET 8 microservices e-commerce (API gateway, messaging, caching)
+- **Job Tracker** — Full-stack React + .NET application
+- **SIGN_LANGUAGE** — Sign language recognition CNN (25 classes)
+- **Portfolio** — Personal site with a tool-calling AI assistant
+
+### 📫 Contact
+[vedatkoylahisar.com.tr](https://vedatkoylahisar.com.tr) · [LinkedIn](LINKEDIN_URL) · MAIL
