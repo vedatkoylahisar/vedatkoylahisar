@@ -22,4 +22,4 @@ An end-to-end demo where an AI agent can query live machine data, downtime and O
 - **Portfolio** — Personal site with a tool-calling AI assistant
 
 ### 📫 Contact
-[vedatkoylahisar.com.tr](https://vedatkoylahisar.com.tr) · [LinkedIn](LINKEDIN_URL) · MAIL
+[vedatkoylahisar.com.tr](https://vedatkoylahisar.com.tr) · [LinkedIn]([LINKEDIN_URL](https://www.linkedin.com/in/vedat-koylahisar-98790b238/)) · vedatkylhsr@gmail.com
